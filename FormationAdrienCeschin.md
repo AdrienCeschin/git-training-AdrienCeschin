@@ -18,3 +18,19 @@ Concrètement mes objectifs sotn :
 - développer des bases dans un nouveau langage de programmation (Python) pour avoir une méthode plus étendue pour pouvoir explorer en autonomie de nouveau langages par la suite.
 - développer des connaissances solides en CI/CD.
 - prendre connaissances des bons process pour un fonctionnement à la fois dans des modes agiles et dans des équipes à visée devops.
+
+##Moyens mis en oeuvre pour la réussite de la formation
+
+###Actions
+- [X] Suivre les cours et compléter avec des cours (écrits/vidéo) en ligne.
+- [X] Refaire régulièrement les exercices pour préparer les semaines de TP.
+- [] Faire (et éventuellement refaire !) les TP.
+- [] Faire de la veille techniques sur les sujets devops.
+- [X] Mettre en place des canaux d'entraide avec les autres stagiaires.
+- [] Pousser davantages les sujets de la formation sur lesquels je me sens à l'aise et/ou qui m'intéressent plus particulièrement.
+
+###Ressources
+1. Les divers supports de cours et corrections d'exercices.
+2. Mes propres notes.
+3. OpenClassroom pour de nombreux sujets (ici en particulier, sur Linux : <https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux>
+4. LinkedIn Learning pour pouser certains sujets <https://www.linkedin.com>
