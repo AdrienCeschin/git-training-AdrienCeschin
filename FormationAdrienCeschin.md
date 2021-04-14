@@ -19,6 +19,7 @@ Concrètement mes objectifs sotn :
 - développer des connaissances solides en CI/CD.
 - prendre connaissances des bons process pour un fonctionnement à la fois dans des modes agiles et dans des équipes à visée devops.
 
+
 ##Moyens mis en oeuvre pour la réussite de la formation
 
 ###Actions
@@ -34,3 +35,14 @@ Concrètement mes objectifs sotn :
 2. Mes propres notes.
 3. OpenClassroom pour de nombreux sujets (ici en particulier, sur Linux : <https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux>
 4. LinkedIn Learning pour pouser certains sujets <https://www.linkedin.com>
+
+
+##Notes et commentaires
+
+###Personnel
+* reprendre la théorie sur Linux pour préparer les TP
+* réfléchir à une certification agile
+* trouver du contenu complémentaire sur Python
+
+###Autres collaborateurs (ajouter une sous-section sous le format **Prénom Nom**)
+
