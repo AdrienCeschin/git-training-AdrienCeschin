@@ -46,3 +46,6 @@ Concrètement mes objectifs sotn :
 
 ###Autres collaborateurs (ajouter une sous-section sous le format **Prénom Nom**)
 
+- Rien d'autres à rajouter sur ce qui a été dit.
+- J'espère qu'Adrien pourra atteindre ces objectifs
+
